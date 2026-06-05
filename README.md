@@ -29,7 +29,7 @@ The project combines Exploratory Data Analysis (EDA), predictive modeling, and v
 
 **Dataset:** Student Performance Prediction Dataset
 
-### Features Used
+## Features Used
 
 * Gender
 * Study_Hours_per_Week
